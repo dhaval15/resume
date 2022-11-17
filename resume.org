@@ -1,0 +1,151 @@
+#+TITLE: Dhaval Patel
+#+OPTIONS: toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="gruvbox.css" />
+
+Markham ON
+
+647-861-1597
+
+[[mailto:dhavalpatel32768@gmail.com][_dhavalpatel32768@gmail.com_]]
+
+[[https://www.linkedin.com/in/dhavalpatel1729][_LinkedIn: dhavalpatel1729_]]
+
+[[https://github.com/dhaval15][_GitHub: dhaval15_]]
+** Education
+
+*Master of Science: Big Data Analytics - Trent University* -
+Peterborough ON, Sept 2021 - Dec 2022
+
+*Bachelor of Engineering: Computer Engineering - Gujarat Technological
+University* - Gujarat India, July 2016 - April 2020
+
+** Technical Skills
+
+*Programming Languages*: Python, R, SQL, Java, Dart, Kotlin
+
+*Operating Systems*: Windows, Linux (Debian, Fedora, Arch)
+
+*Databases*: SQL, MySQL, SQLite, MongoDB
+
+*Cloud Technologies*: Amazon Web Services (AWS), Google Cloud Platform
+(GCP)
+
+*Web Technologies*: HTML, CSS, JavaScript
+
+*Software Tools*: Git, Postman, MS Office, PowerBI, Tableau
+
+*Frontend Frameworks*: Flutter, Android SDK
+
+*Design Tools:* Figma, Adobe XD
+
+** Skills
+- Experience  working with  various  databases including  MySQL,
+  SQLite, MongoDB
+- Experience of working with  various frontend technologies such
+  as Flutter, ReactJS and Native Android App Development.
+- Hands-on  experience  with   connecting  remote  databases  to
+  front-end applications.
+- Experience  on  working with  Google  Cloud  Platform and  AWS
+  services.
+- Extensive usage  of Git version control,  bug reporting, issue
+  tracking.
+- Implementation of  Figma and  AdobeXD designs into  Flutter as
+  well as Android XML user interfaces.
+- Building  Data Visualisation  using Python  and R  as well  as
+  PowerBI and Tableau
+- Extracting meaningful insights from data and writing reports.
+- Knowledge of working with various office tools: MS Office
+- Knowledge of various methodologies including Agile and Scrum.
+- Experience working on Big Data framework such as Apache Kafka,
+  Spark, Hadoop
+- Experience  in Machine  Learning framework  including PyTorch,
+  TensorFlow
+- High writing skills and verbal communication skills
+- Problem solving and Report generation and presentation
+
+** Certifications
+ - The Ultimate Hands-On Flutter & MVVM - Build Real Projects on
+   Udemy
+ - The Complete Flutter  UI Masterclass for iOS,  Android, & Web
+   on Udemy
+ - Android App  Development with  Java and  Kotlin at  Tops Int,
+   Ahmedabad India
+
+** Professional Experience
+*** Jr. Application Developer Sept 2020 - Aug 2021
+:PROPERTIES:
+:CUSTOM_ID: jr.-application-developer-sept-2020---aug-2021
+:END:
+*Vishwam Cable Networks* - Ahmedabad, India
+
+- Worked as full  time app developer and  executed the migration
+  of the  application from Android  SDK to Flutter  and extended
+  the  reach  of  the  application  by 20%  using  iOS  and  Web
+  Implementation.
+- Implementing  User  Interface  from  Figma  into  Flutter  and
+  co-ordinate feedback to the designing team.
+- Improved app workflow with  better design and integration with
+  the native platform.
+- Assured  app  reliability  by   performing  unit  testing  for
+  features implementation.
+- Coordinated with the Product  owner about the responsibilities
+  as well as expectations of the product.
+
+*** Application Developer Internship Mar 2020 - Aug 2020
+:PROPERTIES:
+:CUSTOM_ID: application-developer-internship-mar-2020---aug-2020
+:END:
+*Vishwam Cable Networks* - Ahmedabad, India
+- Worked  as  an  intern,  assisting  developing  a  front-end
+  application  using  Android  SDK, which  provided  consumers
+  authentication and trouble-shooting  services for Television
+  and Internet.
+- Produced  feedback reports  collected from  customer surveys
+  and  coordinated  the  improved  workflows  to  the  project
+  manager.
+- Worked on Research proposal  for movement of the application
+  to  Flutter framework  for better  outreach and  coordinated
+  with  the   project  manager  about  the   requirements  and
+  responsibilities.
+** Academic Projects
+
+*** Sentiment Analysis on Customer Reviews
+:PROPERTIES:
+:CUSTOM_ID: sentiment-analysis-on-customer-reviews
+:END:
+- Performed  sentiment analysis  on  customer  reviews of  two
+  competitive products over a period  of span to establish the
+  impact of performance of one product on customer's sentiment
+  on other products.
+- Reviewed  more  than 20  peer  reviewed  research papers  on
+  product   review  analysis   and   produced  a   substantial
+  literature review on product review analysis.
+- Proposed  literature   gaps  found  in  the   state  of  art
+  techniques used  to understand product reviews  and feedback
+  cycles.
+*Technologies:* Python
+
+*** IntelliRoute
+:PROPERTIES:
+:CUSTOM_ID: intelliroute
+:END:
+- Built a dashboard application  as well as client application
+  using Flutter SDK for intra-campus transport system
+- Used google  cloud platform services such  as authentication
+  and realtime database.
+- Backed  the dashboard  using people  flow analysis  over the
+  whole campus  and finding best routes  for optimal transport
+  infrastructure implementation.
+*Technologies:*  Flutter  SDK,  Google  Cloud  Platform,  Node.js,
+Firebase Database, Python
+
+*** OfferHunt
+:PROPERTIES:
+:CUSTOM_ID: offerhunt
+:END:
+- Developed    an    android   application    using    Flutter
+  cross-platform SDK  which provided a platform  to local shop
+  owners to  publish advertisements and offers  which then can
+  be consumed by a large consumer base in a nearby area.
+*Technologies:*  Flutter  SDK,  Google  Cloud  Platform,  Node.js,
+Firebase Database
